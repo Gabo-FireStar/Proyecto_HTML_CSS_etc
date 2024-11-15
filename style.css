@@ -12,7 +12,7 @@ span{ /*Selector de elemento se basa en etiquetas ya existentes*/
     font-size: 2rem;
 }
 h1 span{
-    color: brown;
+    color: #234;
 }
 
 /*Selector de clase=se puede crear con tus nombres e inicia con .
